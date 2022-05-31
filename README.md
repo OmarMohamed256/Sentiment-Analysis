@@ -4,10 +4,6 @@ Sentiment Analysis classifier that can accept user comment (sentence) and output
 
 source code and dataset at: https://www.kaggle.com/omarmohamed25483/notebook3abda8643c
 
-refrences:
+references:
 
-
-1- https://www.kaggle.com/code/aherparesh/sentiment-analysis-on-amazon-product-rnn-97-acc
-
-
-2- https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
+1- https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
